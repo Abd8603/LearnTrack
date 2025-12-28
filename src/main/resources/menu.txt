@@ -1,0 +1,12 @@
+What do you want me to do, kindly select option?
+1.	Add student
+2.	View all student
+3.	View student by Id
+4.	Delete student by Id
+5.	Add course
+6.	View all courses
+7.	Activate/Deactivate course
+8.	Enroll student to course
+9.	View enrollment for student
+10.	Mark enrollement as completed/cancelled
+0.	Exit the Application
